@@ -1,5 +1,5 @@
 <div align="center">
-  <img src = "https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif" width="900" alt="Cool Developer GIF"/>
+  <img src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif" width="900" alt="Cool Developer GIF"/>
   <br><br>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B,+I'm+Artin!;Full-Stack+Developer;Passionate+about+clean+code+%26+problem-solving" alt="Typing SVG" />
